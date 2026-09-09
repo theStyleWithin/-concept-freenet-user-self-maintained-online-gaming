@@ -1,6 +1,6 @@
 Concept Overview
 
-This repository is an acting host for outlining a concept: using Freenet as an alternative, user-self-maintained online gaming network — aiming to be the best free alternative to projects like Nextendo, Pretendo, and others in that space.
+This repository is an acting host for outlining a concept: using https://github.com/freenet as an alternative, user-self-maintained online gaming network — aiming to be the best free alternative to projects like Nextendo, Pretendo, and others in that space.
 
 The Problem
 
