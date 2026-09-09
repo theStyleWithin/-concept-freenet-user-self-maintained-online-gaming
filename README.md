@@ -22,7 +22,3 @@ Stretch Idea: Browser-Based Emulation
 One direction worth exploring: forking existing emulators and embedding them as apps that run directly on the Freenet web, with users supplying their own privately and legally owned ROMs. Since Freenet is censorship-resistant by design, and these emulators would run on the network using each user's own hardware for processing/graphics, they'd be much harder to take down — and could stay available indefinitely.
 
 These are the concepts as they stand for now.
-
-Kept every idea and your reasoning intact, just gave it visual structure so a reader isn't parsing one giant block. Want me to go further and actually commit this to the README via a diff, or is this just for you to review and paste in yourself?
-
-and these are all the concepts I have for now. 
