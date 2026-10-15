@@ -1,0 +1,12 @@
+[submodule "reference/RetroArch"]
+	path = reference/RetroArch
+	url = https://github.com/libretro/RetroArch
+[submodule "reference/emufii"]
+	path = reference/emufii
+	url = https://github.com/theStyleWithin/emufii
+[submodule "reference/freenet-core"]
+	path = reference/freenet-core
+	url = https://github.com/freenet/freenet-core
+[submodule "reference/freenet-stdlib"]
+	path = reference/freenet-stdlib
+	url = https://github.com/freenet/freenet-stdlib
